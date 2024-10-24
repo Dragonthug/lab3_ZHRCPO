@@ -4,4 +4,4 @@
 
 [Требования к проекту](https://github.com/allapugacheva/EventsMap/blob/main/docs/SRS.md)  
 
-[Диаграммы](https://github.com/allapugacheva/EventsMap/blob/main/diagrams)
+[Диаграммы](https://github.com/Dragonthug/lab3_ZHRCPO/blob/main/docs/SRS.md)
